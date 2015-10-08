@@ -21,6 +21,8 @@
  end
 
  gem 'bootstrap-sass'
+
+ gem 'bcrypt'
  
  # Use SCSS for stylesheets
  gem 'sass-rails', '~> 5.0'
